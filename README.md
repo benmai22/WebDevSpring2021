@@ -1,6 +1,6 @@
 # Broncos Marketplace
 
-Website Link: https://broncomarketplace.netlify.app/entry
+Website Link: https://broncomarketplace.netlify.app
 
 Project Plan: https://docs.google.com/document/d/1X5816ZY6P5yO6-uBG4GCv-Vk-Atd1p0ys7g8gYVmZ-o/edit?usp=sharing
 
